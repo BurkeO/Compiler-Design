@@ -1,4 +1,4 @@
-# Compiler-Design
+# CSU33071 - Compiler-Design I @ TCD
 Repository for 3rd Year Compiler Design module.  
 
 CS3071 Compiler Design is a one-semester module taken by third year Integrated Computer Science,
